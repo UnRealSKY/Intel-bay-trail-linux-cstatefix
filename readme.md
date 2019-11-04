@@ -12,9 +12,13 @@ J2850, J1850, J1750, N3510, N2810, N2805, N2910, N3520, N2920, N2820, N2806, N28
     bash install.sh
     ```
 2. run service
-    `systemctl enable cstatefix.service`
+    ```
+    systemctl enable cstatefix.service
+    ```
 4. check status
-    `/usr/bin/cstateInfo.sh`
+    ```
+    systemctl enable cstatefix.service
+    ```
 
 ### References:
 <https://github.com/Codeuctivity/Intel-bay-trail-freeze-workarround>
