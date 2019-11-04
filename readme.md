@@ -17,7 +17,7 @@ J2850, J1850, J1750, N3510, N2810, N2805, N2910, N3520, N2920, N2820, N2806, N28
     ```
 4. check status
     ```
-    systemctl enable cstatefix.service
+    /usr/bin/cstateInfo.sh
     ```
 
 ### References:
